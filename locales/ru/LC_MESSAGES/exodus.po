@@ -1,0 +1,367 @@
+# Russian translations for PROJECT.
+# Copyright (C) 2021 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2021-07-06 11:20+0300\n"
+"PO-Revision-Date: 2021-07-06 09:49+0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ru\n"
+"Language-Team: ru <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: handlers/users/start.py:71 handlers/users/start.py:132
+msgid "Вы хотите принять приглашение от {}"
+msgstr ""
+
+#: handlers/users/start.py:78 handlers/users/start.py:144
+#: handlers/users/start.py:192 handlers/users/start.py:321
+#: handlers/users/start.py:480 handlers/users/start.py:565
+#: handlers/users/start.py:616 handlers/users/start.py:680
+#: handlers/users/start.py:683 handlers/users/start.py:907
+#: handlers/users/start.py:910 handlers/users/start.py:968
+#: handlers/users/start.py:971 keyboards/default/menu.py:71
+#: keyboards/default/menu.py:76 keyboards/default/menu.py:129
+#: keyboards/default/menu.py:140 utils/message_text.py:11
+msgid "Меню"
+msgstr ""
+
+#: handlers/users/start.py:120
+msgid "Вы выбрали русский язык"
+msgstr ""
+
+#: handlers/users/start.py:139
+msgid "Вы зарегестрированы. Здесь вы можете начать собирать свою сеть"
+msgstr ""
+
+#: handlers/users/start.py:157 handlers/users/start.py:449
+#: handlers/users/start.py:587 handlers/users/start.py:938
+#: keyboards/default/menu.py:55 keyboards/default/menu.py:58
+#: keyboards/default/menu.py:138
+msgid "Да"
+msgstr ""
+
+#: handlers/users/start.py:164
+msgid "Вы уже подтвердил прямую договоренность с участником"
+msgstr ""
+
+#: handlers/users/start.py:168
+msgid "Вы нажали на свою ссылку"
+msgstr ""
+
+#: handlers/users/start.py:185
+msgid "{} подтвердил прямую договоренность с вами"
+msgstr ""
+
+#: handlers/users/start.py:187
+msgid "Вы подтвердили прямую договоренность с {}\n"
+msgstr ""
+
+#: handlers/users/start.py:195 keyboards/default/menu.py:11
+#: keyboards/default/menu.py:18
+msgid "Сгенерировать ссылку"
+msgstr ""
+
+#: handlers/users/start.py:202
+msgid "Ваша ссылка для приглашения в список:\n"
+msgstr ""
+
+#: handlers/users/start.py:217
+msgid ""
+"\n"
+"<b>Подтвержденные лично:</b>\n"
+msgstr ""
+
+#: handlers/users/start.py:229
+msgid ""
+"\n"
+"<b>Полный список:</b>\n"
+msgstr ""
+
+#: handlers/users/start.py:252 handlers/users/start.py:506
+msgid ""
+"\n"
+"<b>Введите номер участника для выбора действий:</b>"
+msgstr ""
+
+#: handlers/users/start.py:262 keyboards/default/menu.py:10
+#: keyboards/default/menu.py:17
+msgid "Список"
+msgstr ""
+
+#: handlers/users/start.py:296
+msgid ""
+"Предыдущий размер пула = {}€\n"
+"Текущий размер пула = {}€\n"
+msgstr ""
+
+#: handlers/users/start.py:299
+msgid "Прирост {}€\n"
+msgstr ""
+
+#: handlers/users/start.py:301
+msgid "Убыль {}€\n"
+msgstr ""
+
+#: handlers/users/start.py:318 handlers/users/start.py:349
+#: handlers/users/start.py:426 handlers/users/start.py:522
+#: handlers/users/start.py:562 handlers/users/start.py:702
+#: handlers/users/start.py:743 handlers/users/start.py:757
+#: handlers/users/start.py:785 keyboards/default/menu.py:35
+#: keyboards/default/menu.py:45 keyboards/default/menu.py:89
+#: keyboards/default/menu.py:101 keyboards/default/menu.py:109
+#: keyboards/default/menu.py:118
+msgid "Назад"
+msgstr ""
+
+#: handlers/users/start.py:324
+msgid "Показать"
+msgstr ""
+
+#: handlers/users/start.py:328
+msgid "Граф"
+msgstr ""
+
+#: handlers/users/start.py:332
+msgid "Черный"
+msgstr ""
+
+#: handlers/users/start.py:352 handlers/users/start.py:525
+msgid "Просмотр списка"
+msgstr ""
+
+#: handlers/users/start.py:370
+msgid "{} связан с вами лично"
+msgstr ""
+
+#: handlers/users/start.py:373 handlers/users/start.py:401
+msgid ""
+"\n"
+"\n"
+"Подтвержденные лично {}:\n"
+msgstr ""
+
+#: handlers/users/start.py:430
+msgid "Отменить"
+msgstr ""
+
+#: handlers/users/start.py:437
+msgid "Вы уверены, что хотите отменить связь с участником {}?"
+msgstr ""
+
+#: handlers/users/start.py:456
+msgid "Участник {} отменил с вами связь"
+msgstr ""
+
+#: handlers/users/start.py:467
+msgid "Вы отменили связь с участником {}"
+msgstr ""
+
+#: handlers/users/start.py:473
+msgid "Участник {} прекратил связь с участником {}"
+msgstr ""
+
+#: handlers/users/start.py:497
+msgid ""
+"\n"
+"<b>Заблокированные мной:</b>\n"
+msgstr ""
+
+#: handlers/users/start.py:541
+msgid "Вы разорвали с {} связь"
+msgstr ""
+
+#: handlers/users/start.py:568
+msgid "Восстановить"
+msgstr ""
+
+#: handlers/users/start.py:575
+msgid "Вы уверены, что хотите восстановить связь с участником {}?"
+msgstr ""
+
+#: handlers/users/start.py:594
+msgid "Участник {} восстановил с вами связь"
+msgstr ""
+
+#: handlers/users/start.py:604
+msgid "Вы восстановили связь с участником {}"
+msgstr ""
+
+#: handlers/users/start.py:609
+msgid "Участник {} восстановил связь с участником {}"
+msgstr ""
+
+#: handlers/users/start.py:625 handlers/users/start.py:633
+#: handlers/users/start.py:707 handlers/users/start.py:746
+#: keyboards/default/menu.py:12 keyboards/default/menu.py:19
+msgid "Настройки"
+msgstr ""
+
+#: handlers/users/start.py:641
+msgid "Ваш язык был изменен на Русский"
+msgstr ""
+
+#: handlers/users/start.py:650 handlers/users/start.py:657
+#: handlers/users/start.py:725 handlers/users/start.py:739
+msgid "не задан"
+msgstr ""
+
+#: handlers/users/start.py:659
+msgid "Логин пользователя: {}\n"
+msgstr ""
+
+#: handlers/users/start.py:660
+msgid "Пароль пользователя: {}"
+msgstr ""
+
+#: handlers/users/start.py:672
+msgid "Личный"
+msgstr ""
+
+#: handlers/users/start.py:675 keyboards/default/menu.py:70
+#: keyboards/default/menu.py:75
+msgid "Язык"
+msgstr ""
+
+#: handlers/users/start.py:678
+msgid "Выберете язык"
+msgstr ""
+
+#: handlers/users/start.py:718 keyboards/default/menu.py:99
+msgid "Изменить логин"
+msgstr ""
+
+#: handlers/users/start.py:727
+msgid ""
+"Текущий логин пользователя: {}\n"
+"Введите новый логин в формате email"
+msgstr ""
+
+#: handlers/users/start.py:730 keyboards/default/menu.py:100
+msgid "Изменить пароль"
+msgstr ""
+
+#: handlers/users/start.py:741
+msgid ""
+"Текущий пароль пользователя: {}\n"
+"\n"
+"Введите пароль, не менее 8 и не более 16 символов"
+msgstr ""
+
+#: handlers/users/start.py:763
+msgid ""
+"Длина пароля должна быть не менее 8 и не более 16 символов!\n"
+"Попробуйте снова."
+msgstr ""
+
+#: handlers/users/start.py:791
+msgid ""
+"Логин должен быть в формате email!\n"
+"Попробуйте снова."
+msgstr ""
+
+#: handlers/users/start.py:880
+msgid "Количество участников в моей сети: {}"
+msgstr ""
+
+#: handlers/users/start.py:901
+msgid "Отправить"
+msgstr ""
+
+#: handlers/users/start.py:902
+msgid "Введите текст для отправки пользователям"
+msgstr ""
+
+#: handlers/users/start.py:921
+msgid ""
+"Вы ввели текст для отправки:\n"
+"<b>{}</b>"
+msgstr ""
+
+#: handlers/users/start.py:928
+msgid "Подтвердите отправку"
+msgstr ""
+
+#: handlers/users/start.py:950
+msgid ""
+"<b>Участник {} нажал экстренную кнопку SOS/INFO с текстом:</b>\n"
+"\n"
+msgstr ""
+
+#: handlers/users/start.py:953
+msgid ""
+"\n"
+"\n"
+"<b>В сети участника находится {} человек</b>"
+msgstr ""
+
+#: handlers/users/start.py:957
+msgid "Успешно отправлено"
+msgstr ""
+
+#: handlers/users/start.py:964 keyboards/default/menu.py:56
+#: keyboards/default/menu.py:59 keyboards/default/menu.py:139
+msgid "Нет"
+msgstr ""
+
+#: handlers/users/start.py:965
+msgid "Отправка отменена"
+msgstr ""
+
+#: keyboards/default/menu.py:32
+msgid "Граф сети"
+msgstr ""
+
+#: keyboards/default/menu.py:33
+msgid "Показать список"
+msgstr ""
+
+#: keyboards/default/menu.py:34
+msgid "Черный список"
+msgstr ""
+
+#: keyboards/default/menu.py:69 keyboards/default/menu.py:74
+msgid "Личный кабинет"
+msgstr ""
+
+#: keyboards/default/menu.py:110
+msgid "Отменить связь"
+msgstr ""
+
+#: keyboards/default/menu.py:119
+msgid "Восстановить связь"
+msgstr ""
+
+#: keyboards/default/menu.py:128
+msgid "Отправить уведомление"
+msgstr ""
+
+#: utils/functions.py:56
+msgid "Ввод должен быть только в виде цифр и больше 0"
+msgstr ""
+
+#: utils/functions.py:61
+msgid "Такой записи не существует. Попробуйте ввести корректный номер"
+msgstr ""
+
+#: utils/functions.py:66
+msgid "Такой кнопки не существует. Попробуйте нажать корректную кнопку"
+msgstr ""
+
+#: utils/message_text.py:5
+msgid ""
+"Приветствуем вас в Exodus Bot!\n"
+"Выберите язык.\n"
+"\n"
+"Welcome to Exodus Bot!\n"
+"Select a language."
+msgstr ""

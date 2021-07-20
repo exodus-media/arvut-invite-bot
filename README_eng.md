@@ -28,7 +28,7 @@ A list of trust is a necessary but not sufficient condition for the emergence of
 
 In the current bot, the user can notify the members of the list about the need for emergency assistance and indicate the link where the communication takes place (in the menu, the "SOS / INFO" button).
 
-To ensure interaction between members of the list, the @exodus_commitbot bot, described separately, has been developed.
+To ensure interaction between members of the list https://github.com/exodus-media/exodusbot_aiogram, described separately, has been developed.
 
 Language: The bot works in several languages. The choice of language takes place in the "SETTINGS" menu.
 
